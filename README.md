@@ -1,5 +1,5 @@
 ## 概要
-- 以下のコマンドを提供するPythonスクリプトです。
+以下のコマンドを提供するPythonスクリプトです。
 
 ## コマンド
 - `reverse inputpath outputpath`:inputpath にあるファイルを受け取り、outputpath に inputpath の内容を逆にした新しいファイルを作成します。
